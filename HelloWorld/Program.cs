@@ -380,7 +380,9 @@ string";
             for (x=0;x<10;x++)
                 for(y=0;y<10;y++)
                     for(z=10;z>0;z--)
-                    { Console.WriteLine("the printed values of \n x is {0} \n y is {1} \n z is {2}",x, y , z);}
+                    { Console.ReadKey();
+                     Console.Beep();
+                        Console.WriteLine("the printed values of \n x is {0} \n y is {1} \n z is {2}",x, y , z);}
                     
                  
 
