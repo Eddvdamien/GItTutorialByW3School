@@ -384,7 +384,9 @@ string";
                      Console.Beep();
                         Console.WriteLine("the printed values of \n x is {0} \n y is {1} \n z is {2}",x, y , z);}
                     
-                 
+             var r = 3;
+            dynamic r1 =3;
+            Console.WriteLine(r, r1);
 
 
 
