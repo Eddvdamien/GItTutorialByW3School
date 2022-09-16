@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TutorialTeacherHandsOn", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructHandsOn", "..\StructHandsOn\StructHandsOn.csproj", "{3048467A-7175-4C13-A4F4-815DD78A2D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingbyTT", "..\ExceptionHandlingbyTT\ExceptionHandlingbyTT.csproj", "{310F35B2-DD6E-49F0-8BE2-B5674A75537A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandlingbyTT", "..\ExceptionHandlingbyTT\ExceptionHandlingbyTT.csproj", "{310F35B2-DD6E-49F0-8BE2-B5674A75537A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{93FE54A3-67FF-40F5-B01F-BC870A41B0F5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
